@@ -1,3 +1,8 @@
+My previou goals
+-Learn Golang
+
+
+
 My new goals
 
 -Learn python for automation
