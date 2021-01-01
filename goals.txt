@@ -1,5 +1,5 @@
 My new goals
 
 -Learn python for automation
--Learn Databasse
+-Learn Database
 -Learn Networking
